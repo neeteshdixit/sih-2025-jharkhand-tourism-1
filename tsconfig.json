@@ -14,9 +14,9 @@
 			// Typically contains stricter or tool-specific options (see `tsconfig.node.json`).
 			"path": "./tsconfig.node.json"
 		},
-		{
-			// Path to the Storybook configuration with relaxed module resolution settings.
-			"path": "./.storybook/tsconfig.json"
-		}
+//		{
+//			// Path to the Storybook configuration with relaxed module resolution settings.
+//			"path": "./.storybook/tsconfig.json"
+//		}
 	]
 }
